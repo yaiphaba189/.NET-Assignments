@@ -24,5 +24,5 @@ Question 07: Interfaces and Multiple Interfaces Write programs that illustrate t
 Question 08: ArrayList and Dictionary Write programs demonstrating the use of ArrayList and Dictionary.
 
 
-Submitted by: Khumbongmayum Yaiphaba Singh , BCA 5th Sem, BC1736
+Submitted by: Khumbongmayum Yaiphaba Singh , BCA 5th Sem, BC1736<br/>
 Submitted to: Madam Simran
