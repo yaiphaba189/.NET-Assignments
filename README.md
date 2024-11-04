@@ -1,18 +1,18 @@
 # .NET-Assignments
-solutions to the .NET assignments 
+# solutions to the .NET assignments 
 
 Question 01: Basic Calculator Operations Design and develop a basic calculator with operations for addition, subtraction, multiplication, division, exponentiation, and a clear function.
 
-Solution
+
 Question 02: Even and Odd Number Lists Create a UI that displays lists of n even numbers and n odd numbers.
 
-Solution
+
 Question 03: Number Series Display a series of numbers in the form 1, 4, 9, 16, 25, 36, ...
 
-Solution
+
 Question 04: Factorial Calculator Design a UI to calculate the factorial of a given number.
 
-Solution
+
 Question 05: Constructors in C# and VB.NET Write programs that illustrate the concepts of default and parameterized constructors.
 
 Question 06: Inheritance in C# and VB.NET Write programs demonstrating single inheritance and multi-level inheritance.
