@@ -1,0 +1,14 @@
+C:\Users\Thomas\Downloads\BCA-5th-SEM-2024-main\BCA-5th-SEM-2024-main\assignments\.net\Question05\ConstrucVB\bin\Debug\net8.0\ConstrucVB.exe
+C:\Users\Thomas\Downloads\BCA-5th-SEM-2024-main\BCA-5th-SEM-2024-main\assignments\.net\Question05\ConstrucVB\bin\Debug\net8.0\ConstrucVB.deps.json
+C:\Users\Thomas\Downloads\BCA-5th-SEM-2024-main\BCA-5th-SEM-2024-main\assignments\.net\Question05\ConstrucVB\bin\Debug\net8.0\ConstrucVB.runtimeconfig.json
+C:\Users\Thomas\Downloads\BCA-5th-SEM-2024-main\BCA-5th-SEM-2024-main\assignments\.net\Question05\ConstrucVB\bin\Debug\net8.0\ConstrucVB.dll
+C:\Users\Thomas\Downloads\BCA-5th-SEM-2024-main\BCA-5th-SEM-2024-main\assignments\.net\Question05\ConstrucVB\bin\Debug\net8.0\ConstrucVB.pdb
+C:\Users\Thomas\Downloads\BCA-5th-SEM-2024-main\BCA-5th-SEM-2024-main\assignments\.net\Question05\ConstrucVB\obj\Debug\net8.0\ConstrucVB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thomas\Downloads\BCA-5th-SEM-2024-main\BCA-5th-SEM-2024-main\assignments\.net\Question05\ConstrucVB\obj\Debug\net8.0\ConstrucVB.AssemblyInfoInputs.cache
+C:\Users\Thomas\Downloads\BCA-5th-SEM-2024-main\BCA-5th-SEM-2024-main\assignments\.net\Question05\ConstrucVB\obj\Debug\net8.0\ConstrucVB.AssemblyInfo.vb
+C:\Users\Thomas\Downloads\BCA-5th-SEM-2024-main\BCA-5th-SEM-2024-main\assignments\.net\Question05\ConstrucVB\obj\Debug\net8.0\ConstrucVB.vbproj.CoreCompileInputs.cache
+C:\Users\Thomas\Downloads\BCA-5th-SEM-2024-main\BCA-5th-SEM-2024-main\assignments\.net\Question05\ConstrucVB\obj\Debug\net8.0\ConstrucVB.dll
+C:\Users\Thomas\Downloads\BCA-5th-SEM-2024-main\BCA-5th-SEM-2024-main\assignments\.net\Question05\ConstrucVB\obj\Debug\net8.0\refint\ConstrucVB.dll
+C:\Users\Thomas\Downloads\BCA-5th-SEM-2024-main\BCA-5th-SEM-2024-main\assignments\.net\Question05\ConstrucVB\obj\Debug\net8.0\ConstrucVB.pdb
+C:\Users\Thomas\Downloads\BCA-5th-SEM-2024-main\BCA-5th-SEM-2024-main\assignments\.net\Question05\ConstrucVB\obj\Debug\net8.0\ConstrucVB.genruntimeconfig.cache
+C:\Users\Thomas\Downloads\BCA-5th-SEM-2024-main\BCA-5th-SEM-2024-main\assignments\.net\Question05\ConstrucVB\obj\Debug\net8.0\ref\ConstrucVB.dll

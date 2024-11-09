@@ -1,0 +1,14 @@
+C:\Users\Thomas\Downloads\BCA-5th-SEM-2024-main\BCA-5th-SEM-2024-main\assignments\.net\Question06\MulInCS\bin\Debug\net8.0\MulInCS.exe
+C:\Users\Thomas\Downloads\BCA-5th-SEM-2024-main\BCA-5th-SEM-2024-main\assignments\.net\Question06\MulInCS\bin\Debug\net8.0\MulInCS.deps.json
+C:\Users\Thomas\Downloads\BCA-5th-SEM-2024-main\BCA-5th-SEM-2024-main\assignments\.net\Question06\MulInCS\bin\Debug\net8.0\MulInCS.runtimeconfig.json
+C:\Users\Thomas\Downloads\BCA-5th-SEM-2024-main\BCA-5th-SEM-2024-main\assignments\.net\Question06\MulInCS\bin\Debug\net8.0\MulInCS.dll
+C:\Users\Thomas\Downloads\BCA-5th-SEM-2024-main\BCA-5th-SEM-2024-main\assignments\.net\Question06\MulInCS\bin\Debug\net8.0\MulInCS.pdb
+C:\Users\Thomas\Downloads\BCA-5th-SEM-2024-main\BCA-5th-SEM-2024-main\assignments\.net\Question06\MulInCS\obj\Debug\net8.0\MulInCS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thomas\Downloads\BCA-5th-SEM-2024-main\BCA-5th-SEM-2024-main\assignments\.net\Question06\MulInCS\obj\Debug\net8.0\MulInCS.AssemblyInfoInputs.cache
+C:\Users\Thomas\Downloads\BCA-5th-SEM-2024-main\BCA-5th-SEM-2024-main\assignments\.net\Question06\MulInCS\obj\Debug\net8.0\MulInCS.AssemblyInfo.cs
+C:\Users\Thomas\Downloads\BCA-5th-SEM-2024-main\BCA-5th-SEM-2024-main\assignments\.net\Question06\MulInCS\obj\Debug\net8.0\MulInCS.csproj.CoreCompileInputs.cache
+C:\Users\Thomas\Downloads\BCA-5th-SEM-2024-main\BCA-5th-SEM-2024-main\assignments\.net\Question06\MulInCS\obj\Debug\net8.0\MulInCS.dll
+C:\Users\Thomas\Downloads\BCA-5th-SEM-2024-main\BCA-5th-SEM-2024-main\assignments\.net\Question06\MulInCS\obj\Debug\net8.0\refint\MulInCS.dll
+C:\Users\Thomas\Downloads\BCA-5th-SEM-2024-main\BCA-5th-SEM-2024-main\assignments\.net\Question06\MulInCS\obj\Debug\net8.0\MulInCS.pdb
+C:\Users\Thomas\Downloads\BCA-5th-SEM-2024-main\BCA-5th-SEM-2024-main\assignments\.net\Question06\MulInCS\obj\Debug\net8.0\MulInCS.genruntimeconfig.cache
+C:\Users\Thomas\Downloads\BCA-5th-SEM-2024-main\BCA-5th-SEM-2024-main\assignments\.net\Question06\MulInCS\obj\Debug\net8.0\ref\MulInCS.dll

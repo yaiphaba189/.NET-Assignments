@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Thomas\\source\\repos\\Q3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{58B6527B-D90C-4968-900D-3E964077FC66}|squaredSeries.vbproj|c:\\users\\thomas\\source\\repos\\q3\\squaredseries.vbproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{58B6527B-D90C-4968-900D-3E964077FC66}|squaredSeries.vbproj|solutionrelative:squaredseries.vbproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58B6527B-D90C-4968-900D-3E964077FC66}|squaredSeries.vbproj|c:\\users\\thomas\\source\\repos\\q3\\form1.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{58B6527B-D90C-4968-900D-3E964077FC66}|squaredSeries.vbproj|solutionrelative:form1.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "squaredSeries",
+              "DocumentMoniker": "C:\\Users\\Thomas\\source\\repos\\Q3\\squaredSeries.vbproj",
+              "RelativeDocumentMoniker": "squaredSeries.vbproj",
+              "ToolTip": "C:\\Users\\Thomas\\source\\repos\\Q3\\squaredSeries.vbproj",
+              "RelativeToolTip": "squaredSeries.vbproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003380|",
+              "WhenOpened": "2024-11-05T04:30:22.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.Designer.vb",
+              "DocumentMoniker": "C:\\Users\\Thomas\\source\\repos\\Q3\\Form1.Designer.vb",
+              "RelativeDocumentMoniker": "Form1.Designer.vb",
+              "ToolTip": "C:\\Users\\Thomas\\source\\repos\\Q3\\Form1.Designer.vb",
+              "RelativeToolTip": "Form1.Designer.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-05T04:30:17.546Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

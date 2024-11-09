@@ -1,0 +1,16 @@
+C:\Users\Thomas\Downloads\BCA-5th-SEM-2024-main\BCA-5th-SEM-2024-main\assignments\.net\Question04\Factorial\bin\Debug\net8.0-windows\Factorial.exe
+C:\Users\Thomas\Downloads\BCA-5th-SEM-2024-main\BCA-5th-SEM-2024-main\assignments\.net\Question04\Factorial\bin\Debug\net8.0-windows\Factorial.deps.json
+C:\Users\Thomas\Downloads\BCA-5th-SEM-2024-main\BCA-5th-SEM-2024-main\assignments\.net\Question04\Factorial\bin\Debug\net8.0-windows\Factorial.runtimeconfig.json
+C:\Users\Thomas\Downloads\BCA-5th-SEM-2024-main\BCA-5th-SEM-2024-main\assignments\.net\Question04\Factorial\bin\Debug\net8.0-windows\Factorial.dll
+C:\Users\Thomas\Downloads\BCA-5th-SEM-2024-main\BCA-5th-SEM-2024-main\assignments\.net\Question04\Factorial\bin\Debug\net8.0-windows\Factorial.pdb
+C:\Users\Thomas\Downloads\BCA-5th-SEM-2024-main\BCA-5th-SEM-2024-main\assignments\.net\Question04\Factorial\obj\Debug\net8.0-windows\Factorial.Form1.resources
+C:\Users\Thomas\Downloads\BCA-5th-SEM-2024-main\BCA-5th-SEM-2024-main\assignments\.net\Question04\Factorial\obj\Debug\net8.0-windows\Factorial.vbproj.GenerateResource.cache
+C:\Users\Thomas\Downloads\BCA-5th-SEM-2024-main\BCA-5th-SEM-2024-main\assignments\.net\Question04\Factorial\obj\Debug\net8.0-windows\Factorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thomas\Downloads\BCA-5th-SEM-2024-main\BCA-5th-SEM-2024-main\assignments\.net\Question04\Factorial\obj\Debug\net8.0-windows\Factorial.AssemblyInfoInputs.cache
+C:\Users\Thomas\Downloads\BCA-5th-SEM-2024-main\BCA-5th-SEM-2024-main\assignments\.net\Question04\Factorial\obj\Debug\net8.0-windows\Factorial.AssemblyInfo.vb
+C:\Users\Thomas\Downloads\BCA-5th-SEM-2024-main\BCA-5th-SEM-2024-main\assignments\.net\Question04\Factorial\obj\Debug\net8.0-windows\Factorial.vbproj.CoreCompileInputs.cache
+C:\Users\Thomas\Downloads\BCA-5th-SEM-2024-main\BCA-5th-SEM-2024-main\assignments\.net\Question04\Factorial\obj\Debug\net8.0-windows\Factorial.dll
+C:\Users\Thomas\Downloads\BCA-5th-SEM-2024-main\BCA-5th-SEM-2024-main\assignments\.net\Question04\Factorial\obj\Debug\net8.0-windows\refint\Factorial.dll
+C:\Users\Thomas\Downloads\BCA-5th-SEM-2024-main\BCA-5th-SEM-2024-main\assignments\.net\Question04\Factorial\obj\Debug\net8.0-windows\Factorial.pdb
+C:\Users\Thomas\Downloads\BCA-5th-SEM-2024-main\BCA-5th-SEM-2024-main\assignments\.net\Question04\Factorial\obj\Debug\net8.0-windows\Factorial.genruntimeconfig.cache
+C:\Users\Thomas\Downloads\BCA-5th-SEM-2024-main\BCA-5th-SEM-2024-main\assignments\.net\Question04\Factorial\obj\Debug\net8.0-windows\ref\Factorial.dll
